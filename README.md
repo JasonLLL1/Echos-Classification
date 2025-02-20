@@ -24,6 +24,9 @@ Visualization of the mean echo shapes highlights differences between the two cla
 Data comes from Sentinel-3 SAR altimetry.
 K-Means clustering was used for classification.
 
+## 📜 License
+This project is for academic purposes only.
+
 ---
 **Author:** JIAZHENG JASON LI
 
